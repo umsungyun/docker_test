@@ -1,3 +1,3 @@
-M busybox
+FROM busybox
 RUN useradd guru
 USER guru
